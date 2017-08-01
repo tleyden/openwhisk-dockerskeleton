@@ -1,0 +1,1 @@
+Customized actionProxy as described in [incubator-openwhisk/issues/2542](https://github.com/apache/incubator-openwhisk/issues/2542)
